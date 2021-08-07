@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+**Note: Since react 17 need un-official enzyme adapter [@wojtekmaj/enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17)!**
+
 ## Available Scripts
 
 In the project directory, you can run:
