@@ -2,6 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is boilerplate for create-react-app typescript for "react": "^16.13.1" and "typescript": "^3.8.x" . 
 
 **Note: Since react 17 need un-official enzyme adapter [@wojtekmaj/enzyme-adapter-react-17](https://github.com/wojtekmaj/enzyme-adapter-react-17)!**
 
